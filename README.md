@@ -7,4 +7,10 @@
 
 - It employs the use of Bank Account Statement of the person to extract information about the transactions that take place during the period of analysis. Uses Google Drive API to link the data from Google Sheets and form the required Dataframe.
 
+- The project categorizes the various kind of transactions to Expenditure Types, like on Food, Entertainment, Services etc. to give an insight into the characteristics of the spendings of the person.
+
+- It takes into account the Income, Recurring Expenses and Non-recurring Expenses to provide the monthly savings of the person.
+
+- 
+
 
