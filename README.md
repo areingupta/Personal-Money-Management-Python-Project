@@ -1,3 +1,5 @@
 # Personal-Money-Management-Python-Project
 
-![Model](.png)
+![Model](Python_Dashboard.png)
+
+
