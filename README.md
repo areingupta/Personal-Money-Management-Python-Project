@@ -9,8 +9,10 @@
 
 - The project categorizes the various kind of transactions to Expenditure Types, like on Food, Entertainment, Services etc. to give an insight into the characteristics of the spendings of the person.
 
-- It takes into account the Income, Recurring Expenses and Non-recurring Expenses to provide the monthly savings of the person.
+- It takes into account the Income, Recurring Expenses and Non-recurring Expenses to provide the monthly savings of the person. Further, the project provides a bar plot for the spendings in various kinds of categories.
 
-- 
+- A filter is provided to view details about particular category at a time. A summary table is also shown with the same filter for it.
+
+- Finally an Interactive Dashboard is formed (as shown in picture) combining all elements in a single dashboard.
 
 
